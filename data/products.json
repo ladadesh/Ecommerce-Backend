@@ -1,0 +1,100 @@
+[
+    {
+        "name" : "Boat Headphones",
+        "price" : "999" , 
+        "description" : "Best Headphones ever made under this price range.",
+        "rating" : "4.5" ,
+        "images" : [],
+        "category" : "Headphones",
+        "seller" : "Boat",
+        "stock" : 12,
+        "numOfReviews" : 15,
+        "reviews" : []
+    },
+    {
+        "name" : "Boat Earphones",
+        "price" : "1499" , 
+        "description" : "Best Earphones ever made under this price range.",
+        "rating" : "4.7" ,
+        "images" : [],
+        "category" : "Headphones",
+        "seller" : "Boat",
+        "stock" : 12,
+        "numOfReviews" : 15,
+        "reviews" : []
+    },
+    {
+        "name" : "Samsung 6.5 kg Fully-Automatic Top Loading Washing Machine",
+        "price" : "13999" , 
+        "description" : "Samsung 6.5 kg Fully-Automatic Top Loading Washing Machine.Fully-automatic top load washing machine: Affordable with great wash quality, Easy to use.6 Wash Programs : Normal, Quick wash, Delicates, Soak + Normal, Energy Saving, Eco Tub Clean",
+        "rating" : "4.5" ,
+        "images" : [],
+        "category" : "Electronics",
+        "seller" : "CloudTail India",
+        "stock" : 50,
+        "numOfReviews" : 154,
+        "reviews" : []
+    },
+    {
+        "name" : "Apple Laptop",
+        "price" : "1499" , 
+        "description" : "Best Laptop with good battery life and smooth performance.",
+        "rating" : "4.7" ,
+        "images" : [],
+        "category" : "Laptops",
+        "seller" : "Inspire",
+        "stock" : 9,
+        "numOfReviews" : 95,
+        "reviews" : []
+    }  ,
+      {
+        "name" : "Puma Sports Shoes",
+        "price" : "2999" , 
+        "description" : "Best Sport shoes ever made under this price range.",
+        "rating" : "4.1" ,
+        "images" : [],
+        "category" : "Sports",
+        "seller" : "Puma India",
+        "stock" : 12,
+        "numOfReviews" : 245,
+        "reviews" : []
+    },
+    {
+        "name" : "A monk who sold his ferrari",
+        "price" : "149" , 
+        "description" : "A renowned inspirational fiction, The Monk Who Sold His Ferrari is a revealing story that offers the readers a simple yet profound way to live life. The plot of this story revolves around Julian Mantle, a lawyer who has made his fortune and name in the profession.A sudden heart-attack creates havoc in the successful lawyer’s life. Jolted by the sudden onset of the illness, his practice comes to a standstill. He ponders over material success being worth it all, renounces all of it and leaves for India. ",
+        "rating" : "4.7" ,
+        "images" : [],
+        "category" : "Books",
+        "seller" : "Robin Sharma",
+        "stock" : 1499,
+        "numOfReviews" : 10203,
+        "reviews" : []
+    },
+    {
+        "name" : "Sypker Jeans",
+        "price" : "1999" , 
+        "description" : "Jeans that matches your style.",
+        "rating" : "4" ,
+        "images" : [],
+        "category" : "Clothing",
+        "seller" : "CloudTail India",
+        "stock" : 15,
+        "numOfReviews" : 54,
+        "reviews" : []
+    },
+    {
+        "name" : "Play Station 4",
+        "price" : "34999" , 
+        "description" : "Experiance the world of gaming with play station 4. Available across India.",
+        "rating" : "4.7" ,
+        "images" : [],
+        "category" : "Gaming Devices",
+        "seller" : "Sony India",
+        "stock" : 49,
+        "numOfReviews" : 195,
+        "reviews" : []
+    }
+        
+    
+]
